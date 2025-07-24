@@ -1,11 +1,11 @@
 
-# 🧠 JavaScript Basics Cheatsheet (For Java Developers)
+# JavaScript Basics Cheatsheet
 
 This guide helps Java developers understand the fundamentals of JavaScript, with examples and comparisons to familiar Java concepts.
 
 ---
 
-## 1. 📝 Variable Declaration: `var`, `let`, and `const`
+## 1. Variable Declaration: `var`, `let`, and `const`
 
 | Keyword | Scope             | Re-declaration | Reassignment | Notes |
 |---------|------------------|----------------|--------------|-------|
@@ -30,7 +30,7 @@ a = 2; // ❌ Not allowed
 
 ---
 
-## 2. 📦 Data Types
+## 2. Data Types
 
 | Type       | Example                     |
 |------------|-----------------------------|
